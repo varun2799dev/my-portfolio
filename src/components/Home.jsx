@@ -11,13 +11,11 @@ function Home() {
         
         {/* Centered Image */}
         <div className="flex justify-center">
-            <img className="rounded-full w-96 h-96 mx-auto" src="src/assets/IMG_20230420_001422_789.jpg" alt="Varun's photo" />
+            <img className="rounded-full w-96 h-96 mx-auto" src="/IMG_20230420_001422_789.jpg" alt="Varun's photo" />
         </div>
 
         <blockquote>
-            <p className="text-2xl italic font-medium text-gray-900 dark:text-white">
-                "No one comes to your website to be entertained. They have questions they think you can answer. Content answers questions."
-            </p>
+            <p className="text-2xl italic font-medium text-gray-900 dark:text-white">`No one comes to your website to be entertained. They have questions they think you can answer. Content answers questions.`</p>
         </blockquote>
     </div>
 </section>

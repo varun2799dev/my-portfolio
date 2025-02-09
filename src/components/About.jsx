@@ -194,25 +194,7 @@ function About() {
       </div>
   </div>
 </div>
-{/* Social Media Links */}
-<div className="flex justify-center gap-6 mt-10 mb-5">
-  {/* LinkedIn */}
-  <a href="https://www.linkedin.com/in/varun-tadpatri" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition-transform duration-300">
-    <img className="w-10 h-10" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
-  </a>
-
-  {/* GitHub */}
-  <a href="https://github.com/varun2799dev" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition-transform duration-300">
-    <img className="w-10 h-10" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" />
-  </a>
-
-  {/* Email ID */}
-  <a href="mailto:varuntadpatri@gmail.com" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition-transform duration-300">
-    <img className="w-10 h-10" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" />
-  </a>
 </div>
-
-      </div>
     );
   }
   
